@@ -22,6 +22,8 @@ Insira um gif ou um link de alguma demonstração
 ![alt text](https://github.com/gustavomerg/reactjs-notes-with-audio/blob/main/docs/preview-reactjs-project-speech-to-text.mp4?raw=true)
 
 https://user-images.githubusercontent.com/6877923/115474571-03c75800-a23e-11eb-8096-8973aad5fa9f.mp4
+
+https://github.com/gustavomerg/reactjs-notes-with-audio/blob/main/docs/preview-reactjs-project-speech-to-text.mp4
 ## Running the application
 
 To run in a dev environment
