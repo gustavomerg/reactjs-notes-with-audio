@@ -49,3 +49,4 @@ To preview the production
 
 https://github.com/gustavomerg/reactjs-notes-with-audio/assets/49318844/9fc655bc-b303-4dc2-868d-66336ee2afdb
 
+![color-palette](https://github.com/gustavomerg/reactjs-notes-with-audio/assets/49318844/05615eb3-b6d5-42d9-b738-4faf7b47dbc8)
