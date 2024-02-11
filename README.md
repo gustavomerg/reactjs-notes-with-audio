@@ -1,30 +1,38 @@
 
-## Tecnologias
+## Technologies
 
- - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Awesome README](https://github.com/matiassingers/awesome-readme)
- - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
-
-
-## Demonstração
-
-Insira um gif ou um link de alguma demonstração
-
-## Documentação de cores
-
-![alt text](https://github.com/gustavomerg/reactjs-notes-with-audio/blob/main/docs/color-palette.png?raw=true)
+ - [ReactJS](https://react.dev/)
+ - [NodeJS](https://nodejs.org/en/)
+ - [TailwindCSS](https://tailwindcss.com/)
+ - [Sonner](https://sonner.emilkowal.ski/)
+ - [Radix UI](https://www.radix-ui.com/)
+ - [Lucide Icons](https://lucide.dev/)
+ - [date-fns](https://date-fns.org/)
+ - [SpeechRecognition API](https://developer.mozilla.org/en-US/docs/Web/API/SpeechRecognition)
+- [Local Storage API](https://developer.mozilla.org/pt-BR/docs/Web/API/Window/localStorage)
 
 
-## Screenshots
+## Demo
 
-![alt text](https://github.com/gustavomerg/reactjs-notes-with-audio/blob/main/docs/color-palette.png?raw=true)
+https://github.com/gustavomerg/reactjs-notes-with-audio/assets/49318844/9fc655bc-b303-4dc2-868d-66336ee2afdb
 
-![alt text](https://github.com/gustavomerg/reactjs-notes-with-audio/blob/main/docs/preview-reactjs-project-speech-to-text.mp4?raw=true)
+## Color documentation
 
-https://user-images.githubusercontent.com/6877923/115474571-03c75800-a23e-11eb-8096-8973aad5fa9f.mp4
+![color-palette](https://github.com/gustavomerg/reactjs-notes-with-audio/assets/49318844/05615eb3-b6d5-42d9-b738-4faf7b47dbc8)
 
-https://github.com/gustavomerg/reactjs-notes-with-audio/blob/main/docs/preview-reactjs-project-speech-to-text.mp4
+
 ## Running the application
+
+To clone the application
+```bash
+  git clone git@github.com:gustavomerg/reactjs-notes-with-audio.git
+```
+
+If you don't have npm installed
+
+```bash
+  npm install
+```
 
 To run in a dev environment
 ```bash
@@ -43,10 +51,3 @@ To preview the production
 ```bash
   npm run preview
 ```
-<video controls src="./docs/preview-reactjs-project-speech-to-text.mp4" title="Preview"></video>,
-
-
-
-https://github.com/gustavomerg/reactjs-notes-with-audio/assets/49318844/9fc655bc-b303-4dc2-868d-66336ee2afdb
-
-![color-palette](https://github.com/gustavomerg/reactjs-notes-with-audio/assets/49318844/05615eb3-b6d5-42d9-b738-4faf7b47dbc8)
