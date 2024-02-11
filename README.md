@@ -1,4 +1,10 @@
 
+# About
+
+Aplicação ReactJS de notas geradas por áudio.
+
+
+
 ## Technologies
 
  - [ReactJS](https://react.dev/)
