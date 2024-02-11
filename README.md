@@ -43,3 +43,4 @@ To preview the production
 ```bash
   npm run preview
 ```
+<video controls src="./docs/preview-reactjs-project-speech-to-text.mp4" title="Preview"></video>
